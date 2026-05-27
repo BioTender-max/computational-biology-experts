@@ -1,54 +1,47 @@
-<div align="center">
-
-<img src="./avatar.png" width="160" style="border-radius:50%" alt="Eran Segal"/>
-
 # Eran Segal
 
-![Domain](https://img.shields.io/badge/Personalized_Medicine-F1C40F?style=flat-square&logoColor=black)
-![Institution](https://img.shields.io/badge/Weizmann_Institute-2C3E50?style=flat-square&logoColor=white)
-![Prize](https://img.shields.io/badge/ERC_Advanced_Grant-009B77?style=flat-square&logoColor=white)
+<div align="center">
+<img src="avatar.png" width="120" height="120" style="border-radius:50%"/>
 
-*"Two people can eat the same food and have completely different glycemic responses. Personalized nutrition is not a luxury — it's a biological necessity."*
+### Personalized Nutrition, Microbiome-Glucose Interactions & Human Phenotype Project
 
+**Weizmann Institute of Science**
+
+_Personalized Nutrition · CGM · Human Phenotype Project · Nucleosome Positioning · Microbiome_
+
+**h-index:** ~70+ | **Award:** ISCB Overton Prize (2007) | **HPP:** 28,000+ participants
 </div>
 
 ---
 
-## Quick Stats
-
-| | |
-|---|---|
-| **Institution** | Weizmann Institute of Science |
-| **Role** | Professor, Department of Computer Science and Applied Mathematics |
-| **Prize** | ERC Advanced Grant; EMBO Member |
-| **Landmark Tool** | Personalized nutrition algorithm · Human Phenotype Project (10K Initiative) |
-| **Core Insight** | The microbiome mediates individual variation in metabolic response — population averages are biologically misleading |
-
----
-
-## Contents
-
-| File | Description |
-|------|-------------|
-| [SKILL.md](./SKILL.md) | Full expert reasoning framework — identity, 6-step protocol, principles, frameworks, heuristics, anti-patterns, quotes |
-| [principles.md](./references/principles.md) | Core principles ranked by cross-source frequency |
-| [frameworks.md](./references/frameworks.md) | Conceptual frameworks with associated methods |
-| [mental-models.md](./references/mental-models.md) | Key mental models and metaphors |
-| [heuristics.md](./references/heuristics.md) | 20 practical rules of thumb |
-| [anti-patterns.md](./references/anti-patterns.md) | Failure modes to avoid |
-| [quotes.md](./references/quotes.md) | Verified quotes with sources |
-| [sources.md](./references/sources.md) | Primary sources used in distillation |
+## Awards & Recognition
+- ISCB Overton Prize (2007)
+- EMBO Member (2015)
+- ERC Advanced Grant
+- Israeli Academy of Sciences (Young Member)
 
 ---
 
 ## Landmark Papers
+### Personalized Nutrition (Cell, 2015)
+Zeevi, Korem, ..., Segal. Cell 163:1079-1094. Glycemic responses vary dramatically between individuals. 3,000+ citations. NYT coverage.
 
-1. **Personalized Nutrition** — Zeevi et al. (2015). *Personalized nutrition by prediction of glycemic responses.* Cell.
-2. **Artificial Sweeteners** — Suez et al. (2014). *Artificial sweeteners induce glucose intolerance by altering the gut microbiota.* Nature.
-3. **Nucleosome Positioning Code** — Segal et al. (2006). *A genomic code for nucleosome positioning.* Nature.
+### Artificial Sweeteners (Nature, 2014)
+Suez, Korem, ..., Segal. Nature 514:181-186. Artificial sweeteners alter gut microbiome and induce glucose intolerance. 3,000+ citations.
+
+### Nucleosome Positioning (Nature, 2006)
+Segal, Fondufe-Mittendorf, ..., Widom. Nature 442:772-778. Genomic code for nucleosome positioning. 2,000+ citations.
 
 ---
 
-<div align="center">
-<sub><a href="../README.md">← Back to all scientists</a></sub>
-</div>
+## Files in This Package
+| File | Description |
+|------|-------------|
+| `SKILL.md` | Full expert persona and technical framework |
+| `references/01-principles.md` | Core scientific principles |
+| `references/02-frameworks.md` | Analytical frameworks |
+| `references/03-mental-models.md` | Mental models and reasoning patterns |
+| `references/04-heuristics.md` | Rules of thumb and heuristics |
+| `references/05-anti-patterns.md` | Common mistakes to avoid |
+| `references/06-quotes.md` | Key quotes |
+| `references/07-sources.md` | Key papers and resources |
