@@ -495,6 +495,8 @@
         <sub><i>SHAP · EchoNet · Virtual Lab</i></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200">
       <a href="./amos-bairoch/">
         <img src="./amos-bairoch/avatar.png" width="120" style="border-radius:50%" alt="Amos Bairoch"/><br/>
