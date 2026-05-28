@@ -2,13 +2,13 @@
 
 # 🧬 Computational Biology Experts
 
-### A curated atlas of expert reasoning frameworks for 52 landmark computational biologists
+### A curated atlas of expert reasoning frameworks for 57 landmark computational biologists
 
 *Distilled from primary sources — interviews, lectures, landmark papers, and award speeches*
 
-![Scientists](https://img.shields.io/badge/Scientists-52-4A90D9?style=flat-square)
-![Skill Packages](https://img.shields.io/badge/Skill_Packages-52-7B68EE?style=flat-square)
-![Reference Files](https://img.shields.io/badge/Reference_Files-364-2ECC71?style=flat-square)
+![Scientists](https://img.shields.io/badge/Scientists-57-4A90D9?style=flat-square)
+![Skill Packages](https://img.shields.io/badge/Skill_Packages-57-7B68EE?style=flat-square)
+![Reference Files](https://img.shields.io/badge/Reference_Files-399-2ECC71?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-E67E22?style=flat-square)
 
 </div>
@@ -462,6 +462,48 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="./david-haussler/">
+        <img src="./david-haussler/avatar.png" width="120" style="border-radius:50%" alt="David Haussler"/><br/>
+        <b>David Haussler</b><br/>
+        <sub>🔬 Genome Informatics</sub><br/>
+        <sub><i>UCSC Browser · Pangenome · HMMs</i></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="./chris-sander/">
+        <img src="./chris-sander/avatar.png" width="120" style="border-radius:50%" alt="Chris Sander"/><br/>
+        <b>Chris Sander</b><br/>
+        <sub>🔬 Cancer Systems Biology</sub><br/>
+        <sub><i>cBioPortal · DSSP · co-evolution</i></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="./nuria-lopez-bigas/">
+        <img src="./nuria-lopez-bigas/avatar.png" width="120" style="border-radius:50%" alt="Núria López-Bigas"/><br/>
+        <b>Núria López-Bigas</b><br/>
+        <sub>🔬 Cancer Genomics</sub><br/>
+        <sub><i>IntOGen · BoostDM · driver mutations</i></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="./james-zou/">
+        <img src="./james-zou/avatar.png" width="120" style="border-radius:50%" alt="James Zou"/><br/>
+        <b>James Zou</b><br/>
+        <sub>🔬 AI for Biomedicine</sub><br/>
+        <sub><i>SHAP · EchoNet · Virtual Lab</i></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="./amos-bairoch/">
+        <img src="./amos-bairoch/avatar.png" width="120" style="border-radius:50%" alt="Amos Bairoch"/><br/>
+        <b>Amos Bairoch</b><br/>
+        <sub>🔬 Biocuration</sub><br/>
+        <sub><i>Swiss-Prot · UniProt · ExPASy</i></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -524,6 +566,11 @@
 | [Wouter Meuleman](./wouter-meuleman/) | ![](https://img.shields.io/badge/Regulatory_Genomics-006400?style=flat-square&logoColor=white) | Altius Institute | DHS Index · DNA-Diffusion · augmented genomics | [→](./wouter-meuleman/SKILL.md) |
 | [Yun Song](./yun-song/) | ![](https://img.shields.io/badge/Probabilistic_Genomics-8B5A2B?style=flat-square&logoColor=white) | UC Berkeley | Coalescent theory · probabilistic models | [→](./yun-song/SKILL.md) |
 | [Elhanan Borenstein](./elhanan-borenstein/) | ![](https://img.shields.io/badge/Microbiome_Systems-4682B4?style=flat-square&logoColor=white) | Tel Aviv University | Metabolic modeling · multi-omics microbiome | [→](./elhanan-borenstein/SKILL.md) |
+| [David Haussler](./david-haussler/) | ![](https://img.shields.io/badge/Genome_Informatics-4A90D9?style=flat-square&logoColor=white) | UCSC / HHMI | ISCB 2008 · UCSC Browser · Pangenome | [→](./david-haussler/SKILL.md) |
+| [Chris Sander](./chris-sander/) | ![](https://img.shields.io/badge/Cancer_Systems_Biology-E74C3C?style=flat-square&logoColor=white) | Dana-Farber / Harvard | ISCB 2010 · cBioPortal · DSSP | [→](./chris-sander/SKILL.md) |
+| [Núria López-Bigas](./nuria-lopez-bigas/) | ![](https://img.shields.io/badge/Cancer_Genomics-E74C3C?style=flat-square&logoColor=white) | IRB Barcelona | ISCB 2022 · IntOGen · BoostDM | [→](./nuria-lopez-bigas/SKILL.md) |
+| [James Zou](./james-zou/) | ![](https://img.shields.io/badge/AI_for_Biomedicine-7B68EE?style=flat-square&logoColor=white) | Stanford | ISCB 2025 · SHAP · EchoNet | [→](./james-zou/SKILL.md) |
+| [Amos Bairoch](./amos-bairoch/) | ![](https://img.shields.io/badge/Biocuration-27AE60?style=flat-square&logoColor=white) | SIB Geneva | ISCB 2025 · Swiss-Prot · UniProt | [→](./amos-bairoch/SKILL.md) |
 
 ---
 
