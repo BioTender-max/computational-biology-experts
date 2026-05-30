@@ -6,10 +6,18 @@
 
 *Distilled from primary sources — interviews, lectures, landmark papers, and award speeches*
 
-![Scientists](https://img.shields.io/badge/Scientists-57-4A90D9?style=flat-square)
-![Skill Packages](https://img.shields.io/badge/Skill_Packages-57-7B68EE?style=flat-square)
-![Reference Files](https://img.shields.io/badge/Reference_Files-399-2ECC71?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-E67E22?style=flat-square)
+*Load any scientist's `SKILL.md` into your AI agent to reason like the world's best computational biologists.*
+
+<br/>
+
+[![Scientists](https://img.shields.io/badge/Scientists-57-4A90D9?style=for-the-badge&logo=dna&logoColor=white)](https://github.com/BioTender-max/computational-biology-experts)
+[![Skill Packages](https://img.shields.io/badge/Skill_Packages-57-7B68EE?style=for-the-badge&logoColor=white)](https://github.com/BioTender-max/computational-biology-experts)
+[![Reference Files](https://img.shields.io/badge/Reference_Files-399-2ECC71?style=for-the-badge&logoColor=white)](https://github.com/BioTender-max/computational-biology-experts)
+[![License](https://img.shields.io/badge/License-MIT-E67E22?style=for-the-badge&logoColor=white)](./LICENSE)
+
+<br/>
+
+**[🖼️ Gallery](#️-the-scientists) · [📋 Directory](#-directory) · [🧭 Usage Guide](#-usage-guide) · [📦 Package Structure](#-package-structure) · [⚗️ Methodology](#️-distillation-methodology)**
 
 </div>
 
@@ -18,6 +26,9 @@
 ## 🖼️ The Scientists
 
 <div align="center">
+<sub>Click any portrait to explore their reasoning framework</sub>
+
+<br/>
 
 <table>
   <tr>
@@ -517,65 +528,67 @@
 
 ## 📋 Directory
 
+<sub>57 scientists · sorted A → Z by last name</sub>
+
 | Scientist | Domain | Institution | Landmark Contributions | Package |
 |-----------|--------|-------------|------------------------|---------|
+| [Stein Aerts](./stein-aerts/) | ![](https://img.shields.io/badge/Regulatory_Genomics-006400?style=flat-square&logoColor=white) | KU Leuven / VIB.AI | SCENIC · cisTopic · CREsted | [→](./stein-aerts/SKILL.md) |
+| [Amos Bairoch](./amos-bairoch/) | ![](https://img.shields.io/badge/Biocuration-27AE60?style=flat-square&logoColor=white) | SIB Geneva | ISCB 2025 · Swiss-Prot · UniProt | [→](./amos-bairoch/SKILL.md) |
 | [David Baker](./david-baker/) | ![](https://img.shields.io/badge/Protein_Design-4A90D9?style=flat-square&logoColor=white) | UW / HHMI | Nobel 2024 · Rosetta · RFDiffusion | [→](./david-baker/SKILL.md) |
-| [Demis Hassabis](./demis-hassabis/) | ![](https://img.shields.io/badge/AI_for_Biology-7B68EE?style=flat-square&logoColor=white) | DeepMind / Google | Nobel 2024 · AlphaFold · DeepMind | [→](./demis-hassabis/SKILL.md) |
-| [Eugene Myers](./eugene-myers/) | ![](https://img.shields.io/badge/Genome_Assembly-2ECC71?style=flat-square&logoColor=white) | MPI-CBG | Breakthrough Prize · BLAST · WGS | [→](./eugene-myers/SKILL.md) |
-| [Aviv Regev](./aviv-regev/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-E74C3C?style=flat-square&logoColor=white) | Genentech / MIT | Human Cell Atlas · scRNA-seq | [→](./aviv-regev/SKILL.md) |
-| [Lior Pachter](./lior-pachter/) | ![](https://img.shields.io/badge/Computational_Genomics-F39C12?style=flat-square&logoColor=white) | Caltech | kallisto · pseudoalignment · sleuth | [→](./lior-pachter/SKILL.md) |
+| [Albert-László Barabási](./albert-laszlo-barabasi/) | ![](https://img.shields.io/badge/Network_Science-922B21?style=flat-square&logoColor=white) | Northeastern / CEU | Scale-free networks · interactome | [→](./albert-laszlo-barabasi/SKILL.md) |
 | [Bonnie Berger](./bonnie-berger/) | ![](https://img.shields.io/badge/Mathematical_Biology-1ABC9C?style=flat-square&logoColor=white) | MIT | Compressive genomics · IsoRank | [→](./bonnie-berger/SKILL.md) |
 | [Ewan Birney](./ewan-birney/) | ![](https://img.shields.io/badge/Genome_Annotation-3498DB?style=flat-square&logoColor=white) | EMBL-EBI | Ensembl · ENCODE · GeneWise | [→](./ewan-birney/SKILL.md) |
-| [Søren Brunak](./soren-brunak/) | ![](https://img.shields.io/badge/Disease_Systems_Biology-E67E22?style=flat-square&logoColor=white) | DTU / NNF | SignalP · disease trajectories · EHR | [→](./soren-brunak/SKILL.md) |
-| [Christina Leslie](./christina-leslie/) | ![](https://img.shields.io/badge/ML_for_Genomics-9B59B6?style=flat-square&logoColor=white) | MSKCC | String kernels · GraphReg | [→](./christina-leslie/SKILL.md) |
-| [Bernhard Schölkopf](./bernhard-scholkopf/) | ![](https://img.shields.io/badge/Causal_ML-34495E?style=flat-square&logoColor=white) | Max Planck / ELLIS | SVMs · kernel methods · causality | [→](./bernhard-scholkopf/SKILL.md) |
-| [Dana Pe'er](./dana-peer/) | ![](https://img.shields.io/badge/Single-Cell___Cancer-E74C3C?style=flat-square&logoColor=white) | MSKCC / HHMI | Palantir · MAGIC · Wanderlust | [→](./dana-peer/SKILL.md) |
-| [Manolis Kellis](./manolis-kellis/) | ![](https://img.shields.io/badge/Comparative_Genomics-27AE60?style=flat-square&logoColor=white) | MIT / HHMI | ChromHMM · ENCODE · Alzheimer's | [→](./manolis-kellis/SKILL.md) |
-| [Eran Segal](./eran-segal/) | ![](https://img.shields.io/badge/Personalized_Medicine-F1C40F?style=flat-square&logoColor=white) | Weizmann | Personalized nutrition · microbiome | [→](./eran-segal/SKILL.md) |
-| [Daphne Koller](./daphne-koller/) | ![](https://img.shields.io/badge/Probabilistic_AI___Drug_Discovery-C0392B?style=flat-square&logoColor=white) | insitro / Stanford | PGMs · Coursera · insitro · MacArthur Fellow | [→](./daphne-koller/SKILL.md) |
-| [Richard Durbin](./richard-durbin/) | ![](https://img.shields.io/badge/Population_Genomics-2C3E50?style=flat-square&logoColor=white) | Cambridge / Sanger | BWA · GATK · 1000 Genomes | [→](./richard-durbin/SKILL.md) |
-| [Heng Li](./heng-li/) | ![](https://img.shields.io/badge/Sequence_Alignment-16A085?style=flat-square&logoColor=white) | Dana-Farber / Harvard | BWA · SAMtools · minimap2 | [→](./heng-li/SKILL.md) |
-| [Sean Eddy](./sean-eddy/) | ![](https://img.shields.io/badge/Sequence_Analysis-8E44AD?style=flat-square&logoColor=white) | Harvard / HHMI | HMMER · Rfam · Infernal | [→](./sean-eddy/SKILL.md) |
-| [Pavel Pevzner](./pavel-pevzner/) | ![](https://img.shields.io/badge/Genome_Assembly-C0392B?style=flat-square&logoColor=white) | UCSD | SPAdes · de Bruijn graphs | [→](./pavel-pevzner/SKILL.md) |
-| [Steven Salzberg](./steven-salzberg/) | ![](https://img.shields.io/badge/Genome_Annotation-D35400?style=flat-square&logoColor=white) | Johns Hopkins | HISAT2 · StringTie · CHESS | [→](./steven-salzberg/SKILL.md) |
-| [Michael Schatz](./michael-schatz/) | ![](https://img.shields.io/badge/Genome_Assembly-1F618D?style=flat-square&logoColor=white) | Johns Hopkins | MUMmer · long-read assembly | [→](./michael-schatz/SKILL.md) |
-| [Jared Simpson](./jared-simpson/) | ![](https://img.shields.io/badge/Nanopore_Genomics-117A65?style=flat-square&logoColor=white) | OICR / Toronto | nanopolish · ABySS · f5c | [→](./jared-simpson/SKILL.md) |
-| [John Novembre](./john-novembre/) | ![](https://img.shields.io/badge/Population_Genetics-7D6608?style=flat-square&logoColor=white) | U Chicago | STRUCTURE · ADMIXTURE · POPRES | [→](./john-novembre/SKILL.md) |
-| [Jonathan Pritchard](./jonathan-pritchard/) | ![](https://img.shields.io/badge/Human_Genetics-6C3483?style=flat-square&logoColor=white) | Stanford / HHMI | STRUCTURE · polygenic adaptation | [→](./jonathan-pritchard/SKILL.md) |
-| [Alkes Price](./alkes-price/) | ![](https://img.shields.io/badge/Statistical_Genetics-1A5276?style=flat-square&logoColor=white) | Harvard SPH | EIGENSTRAT · LD Score regression | [→](./alkes-price/SKILL.md) |
-| [Nir Friedman](./nir-friedman/) | ![](https://img.shields.io/badge/Probabilistic_Genomics-784212?style=flat-square&logoColor=white) | Hebrew University | Bayesian networks · scRNA-seq | [→](./nir-friedman/SKILL.md) |
-| [Albert-László Barabási](./albert-laszlo-barabasi/) | ![](https://img.shields.io/badge/Network_Science-922B21?style=flat-square&logoColor=white) | Northeastern / CEU | Scale-free networks · interactome | [→](./albert-laszlo-barabasi/SKILL.md) |
-| [Trey Ideker](./trey-ideker/) | ![](https://img.shields.io/badge/Systems_Biology-1B4F72?style=flat-square&logoColor=white) | UCSD | Cytoscape · DCell · network medicine | [→](./trey-ideker/SKILL.md) |
-| [Fabian Theis](./fabian-theis/) | ![](https://img.shields.io/badge/Computational_Biology-0B5345?style=flat-square&logoColor=white) | Helmholtz / TU Munich | scVI · scANVI · CellRank · SCANPY | [→](./fabian-theis/SKILL.md) |
-| [Rahul Satija](./rahul-satija/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-1E90FF?style=flat-square&logoColor=white) | NYU / NYGC | Seurat · WNN · SCTransform · Azimuth | [→](./rahul-satija/SKILL.md) |
-| [Sarah Teichmann](./sarah-teichmann/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-8B008B?style=flat-square&logoColor=white) | Cambridge / Sanger / GSK | Human Cell Atlas · cell2location | [→](./sarah-teichmann/SKILL.md) |
-| [Cole Trapnell](./cole-trapnell/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-006400?style=flat-square&logoColor=white) | U Washington | Monocle · sci-RNA-seq · TopHat | [→](./cole-trapnell/SKILL.md) |
-| [Peter Kharchenko](./peter-kharchenko/) | ![](https://img.shields.io/badge/Single-Cell_Methods-8B4513?style=flat-square&logoColor=white) | Altos Labs | SCDE · velocyto · Numbat · Baysor | [→](./peter-kharchenko/SKILL.md) |
-| [Bing Ren](./bing-ren/) | ![](https://img.shields.io/badge/Epigenomics-2F4F4F?style=flat-square&logoColor=white) | NYGC / Columbia | ChIP-seq · ATAC-seq · Hi-C · ABC model | [→](./bing-ren/SKILL.md) |
-| [Rob Knight](./rob-knight/) | ![](https://img.shields.io/badge/Microbiome-006400?style=flat-square&logoColor=white) | UCSD | QIIME2 · UniFrac · Earth Microbiome | [→](./rob-knight/SKILL.md) |
-| [Curtis Huttenhower](./curtis-huttenhower/) | ![](https://img.shields.io/badge/Microbiome-8B0000?style=flat-square&logoColor=white) | Harvard SPH | MetaPhlAn · HUMAnN · bioBakery | [→](./curtis-huttenhower/SKILL.md) |
-| [Peer Bork †](./peer-bork/) | ![](https://img.shields.io/badge/Metagenomics-4B0082?style=flat-square&logoColor=white) | EMBL Heidelberg | STRING · iTOL · SMART · enterotypes | [→](./peer-bork/SKILL.md) |
-| [Martin Steinegger](./martin-steinegger/) | ![](https://img.shields.io/badge/Sequence_Analysis-FF8C00?style=flat-square&logoColor=white) | Seoul National U | MMseqs2 · ColabFold · Foldseek | [→](./martin-steinegger/SKILL.md) |
-| [Andrej Sali](./andrej-sali/) | ![](https://img.shields.io/badge/Structural_Biology-4682B4?style=flat-square&logoColor=white) | UCSF | MODELLER · IMP · Nuclear Pore Complex | [→](./andrej-sali/SKILL.md) |
-| [Brian Shoichet](./brian-shoichet/) | ![](https://img.shields.io/badge/Drug_Discovery-8B4513?style=flat-square&logoColor=white) | UCSF | Ultra-large docking · colloidal aggregation | [→](./brian-shoichet/SKILL.md) |
-| [Ron Dror](./ron-dror/) | ![](https://img.shields.io/badge/Molecular_Simulation-191970?style=flat-square&logoColor=white) | Stanford | Anton · GPCR mechanisms · MD + ML | [→](./ron-dror/SKILL.md) |
-| [Stein Aerts](./stein-aerts/) | ![](https://img.shields.io/badge/Regulatory_Genomics-006400?style=flat-square&logoColor=white) | KU Leuven / VIB.AI | SCENIC · cisTopic · CREsted | [→](./stein-aerts/SKILL.md) |
-| [Barbara Engelhardt](./barbara-engelhardt/) | ![](https://img.shields.io/badge/Probabilistic_ML-800080?style=flat-square&logoColor=white) | Stanford / Gladstone | PEER · GTEx · GPLVM · ISCB Overton 2021 | [→](./barbara-engelhardt/SKILL.md) |
-| [Anshul Kundaje](./anshul-kundaje/) | ![](https://img.shields.io/badge/Regulatory_Genomics-B8860B?style=flat-square&logoColor=white) | Stanford | BPNet · ChromBPNet · TF-MoDISco · ENCODE | [→](./anshul-kundaje/SKILL.md) |
-| [Ben Raphael](./ben-raphael/) | ![](https://img.shields.io/badge/Cancer_Genomics-B22222?style=flat-square&logoColor=white) | Princeton | HATCHet · THetA · TCGA · ISCB Innovator 2021 | [→](./ben-raphael/SKILL.md) |
-| [Gad Getz](./gad-getz/) | ![](https://img.shields.io/badge/Cancer_Genomics-2F4F4F?style=flat-square&logoColor=white) | Broad / MGH | MutSig · MuTect · GISTIC · TCGA GDAC | [→](./gad-getz/SKILL.md) |
-| [Li Ding](./li-ding/) | ![](https://img.shields.io/badge/Cancer_Proteogenomics-556B2F?style=flat-square&logoColor=white) | WashU | First cancer genome · TCGA · CPTAC | [→](./li-ding/SKILL.md) |
-| [Gunnar Rätsch](./gunnar-ratsch/) | ![](https://img.shields.io/badge/ML_for_Medicine-483D8B?style=flat-square&logoColor=white) | ETH Zurich | Tumor Profiler · deep learning pathology | [→](./gunnar-ratsch/SKILL.md) |
-| [Jure Leskovec](./jure-leskovec/) | ![](https://img.shields.io/badge/Graph_Neural_Networks-008080?style=flat-square&logoColor=white) | Stanford | PyG · GraphSAGE · Decagon · TDC | [→](./jure-leskovec/SKILL.md) |
-| [Olga Troyanskaya](./olga-troyanskaya/) | ![](https://img.shields.io/badge/Genomic_Integration-9400D3?style=flat-square&logoColor=white) | Princeton / Flatiron | DeepSEA · Sei · Bayesian integration | [→](./olga-troyanskaya/SKILL.md) |
-| [Wouter Meuleman](./wouter-meuleman/) | ![](https://img.shields.io/badge/Regulatory_Genomics-006400?style=flat-square&logoColor=white) | Altius Institute | DHS Index · DNA-Diffusion · augmented genomics | [→](./wouter-meuleman/SKILL.md) |
-| [Yun Song](./yun-song/) | ![](https://img.shields.io/badge/Probabilistic_Genomics-8B5A2B?style=flat-square&logoColor=white) | UC Berkeley | Coalescent theory · probabilistic models | [→](./yun-song/SKILL.md) |
 | [Elhanan Borenstein](./elhanan-borenstein/) | ![](https://img.shields.io/badge/Microbiome_Systems-4682B4?style=flat-square&logoColor=white) | Tel Aviv University | Metabolic modeling · multi-omics microbiome | [→](./elhanan-borenstein/SKILL.md) |
+| [Peer Bork †](./peer-bork/) | ![](https://img.shields.io/badge/Metagenomics-4B0082?style=flat-square&logoColor=white) | EMBL Heidelberg | STRING · iTOL · SMART · enterotypes | [→](./peer-bork/SKILL.md) |
+| [Søren Brunak](./soren-brunak/) | ![](https://img.shields.io/badge/Disease_Systems_Biology-E67E22?style=flat-square&logoColor=white) | DTU / NNF | SignalP · disease trajectories · EHR | [→](./soren-brunak/SKILL.md) |
+| [Li Ding](./li-ding/) | ![](https://img.shields.io/badge/Cancer_Proteogenomics-556B2F?style=flat-square&logoColor=white) | WashU | First cancer genome · TCGA · CPTAC | [→](./li-ding/SKILL.md) |
+| [Ron Dror](./ron-dror/) | ![](https://img.shields.io/badge/Molecular_Simulation-191970?style=flat-square&logoColor=white) | Stanford | Anton · GPCR mechanisms · MD + ML | [→](./ron-dror/SKILL.md) |
+| [Richard Durbin](./richard-durbin/) | ![](https://img.shields.io/badge/Population_Genomics-2C3E50?style=flat-square&logoColor=white) | Cambridge / Sanger | BWA · GATK · 1000 Genomes | [→](./richard-durbin/SKILL.md) |
+| [Sean Eddy](./sean-eddy/) | ![](https://img.shields.io/badge/Sequence_Analysis-8E44AD?style=flat-square&logoColor=white) | Harvard / HHMI | HMMER · Rfam · Infernal | [→](./sean-eddy/SKILL.md) |
+| [Barbara Engelhardt](./barbara-engelhardt/) | ![](https://img.shields.io/badge/Probabilistic_ML-800080?style=flat-square&logoColor=white) | Stanford / Gladstone | PEER · GTEx · GPLVM · ISCB Overton 2021 | [→](./barbara-engelhardt/SKILL.md) |
+| [Nir Friedman](./nir-friedman/) | ![](https://img.shields.io/badge/Probabilistic_Genomics-784212?style=flat-square&logoColor=white) | Hebrew University | Bayesian networks · scRNA-seq | [→](./nir-friedman/SKILL.md) |
+| [Gad Getz](./gad-getz/) | ![](https://img.shields.io/badge/Cancer_Genomics-2F4F4F?style=flat-square&logoColor=white) | Broad / MGH | MutSig · MuTect · GISTIC · TCGA GDAC | [→](./gad-getz/SKILL.md) |
+| [Demis Hassabis](./demis-hassabis/) | ![](https://img.shields.io/badge/AI_for_Biology-7B68EE?style=flat-square&logoColor=white) | DeepMind / Google | Nobel 2024 · AlphaFold · DeepMind | [→](./demis-hassabis/SKILL.md) |
 | [David Haussler](./david-haussler/) | ![](https://img.shields.io/badge/Genome_Informatics-4A90D9?style=flat-square&logoColor=white) | UCSC / HHMI | ISCB 2008 · UCSC Browser · Pangenome | [→](./david-haussler/SKILL.md) |
-| [Chris Sander](./chris-sander/) | ![](https://img.shields.io/badge/Cancer_Systems_Biology-E74C3C?style=flat-square&logoColor=white) | Dana-Farber / Harvard | ISCB 2010 · cBioPortal · DSSP | [→](./chris-sander/SKILL.md) |
+| [Curtis Huttenhower](./curtis-huttenhower/) | ![](https://img.shields.io/badge/Microbiome-8B0000?style=flat-square&logoColor=white) | Harvard SPH | MetaPhlAn · HUMAnN · bioBakery | [→](./curtis-huttenhower/SKILL.md) |
+| [Trey Ideker](./trey-ideker/) | ![](https://img.shields.io/badge/Systems_Biology-1B4F72?style=flat-square&logoColor=white) | UCSD | Cytoscape · DCell · network medicine | [→](./trey-ideker/SKILL.md) |
+| [Manolis Kellis](./manolis-kellis/) | ![](https://img.shields.io/badge/Comparative_Genomics-27AE60?style=flat-square&logoColor=white) | MIT / HHMI | ChromHMM · ENCODE · Alzheimer's | [→](./manolis-kellis/SKILL.md) |
+| [Peter Kharchenko](./peter-kharchenko/) | ![](https://img.shields.io/badge/Single-Cell_Methods-8B4513?style=flat-square&logoColor=white) | Altos Labs | SCDE · velocyto · Numbat · Baysor | [→](./peter-kharchenko/SKILL.md) |
+| [Rob Knight](./rob-knight/) | ![](https://img.shields.io/badge/Microbiome-006400?style=flat-square&logoColor=white) | UCSD | QIIME2 · UniFrac · Earth Microbiome | [→](./rob-knight/SKILL.md) |
+| [Daphne Koller](./daphne-koller/) | ![](https://img.shields.io/badge/Probabilistic_AI___Drug_Discovery-C0392B?style=flat-square&logoColor=white) | insitro / Stanford | PGMs · Coursera · insitro · MacArthur Fellow | [→](./daphne-koller/SKILL.md) |
+| [Anshul Kundaje](./anshul-kundaje/) | ![](https://img.shields.io/badge/Regulatory_Genomics-B8860B?style=flat-square&logoColor=white) | Stanford | BPNet · ChromBPNet · TF-MoDISco · ENCODE | [→](./anshul-kundaje/SKILL.md) |
+| [Jure Leskovec](./jure-leskovec/) | ![](https://img.shields.io/badge/Graph_Neural_Networks-008080?style=flat-square&logoColor=white) | Stanford | PyG · GraphSAGE · Decagon · TDC | [→](./jure-leskovec/SKILL.md) |
+| [Christina Leslie](./christina-leslie/) | ![](https://img.shields.io/badge/ML_for_Genomics-9B59B6?style=flat-square&logoColor=white) | MSKCC | String kernels · GraphReg | [→](./christina-leslie/SKILL.md) |
+| [Heng Li](./heng-li/) | ![](https://img.shields.io/badge/Sequence_Alignment-16A085?style=flat-square&logoColor=white) | Dana-Farber / Harvard | BWA · SAMtools · minimap2 | [→](./heng-li/SKILL.md) |
 | [Núria López-Bigas](./nuria-lopez-bigas/) | ![](https://img.shields.io/badge/Cancer_Genomics-E74C3C?style=flat-square&logoColor=white) | IRB Barcelona | ISCB 2022 · IntOGen · BoostDM | [→](./nuria-lopez-bigas/SKILL.md) |
+| [Wouter Meuleman](./wouter-meuleman/) | ![](https://img.shields.io/badge/Regulatory_Genomics-006400?style=flat-square&logoColor=white) | Altius Institute | DHS Index · DNA-Diffusion · augmented genomics | [→](./wouter-meuleman/SKILL.md) |
+| [Eugene Myers](./eugene-myers/) | ![](https://img.shields.io/badge/Genome_Assembly-2ECC71?style=flat-square&logoColor=white) | MPI-CBG | Breakthrough Prize · BLAST · WGS | [→](./eugene-myers/SKILL.md) |
+| [John Novembre](./john-novembre/) | ![](https://img.shields.io/badge/Population_Genetics-7D6608?style=flat-square&logoColor=white) | U Chicago | STRUCTURE · ADMIXTURE · POPRES | [→](./john-novembre/SKILL.md) |
+| [Lior Pachter](./lior-pachter/) | ![](https://img.shields.io/badge/Computational_Genomics-F39C12?style=flat-square&logoColor=white) | Caltech | kallisto · pseudoalignment · sleuth | [→](./lior-pachter/SKILL.md) |
+| [Dana Pe'er](./dana-peer/) | ![](https://img.shields.io/badge/Single-Cell___Cancer-E74C3C?style=flat-square&logoColor=white) | MSKCC / HHMI | Palantir · MAGIC · Wanderlust | [→](./dana-peer/SKILL.md) |
+| [Pavel Pevzner](./pavel-pevzner/) | ![](https://img.shields.io/badge/Genome_Assembly-C0392B?style=flat-square&logoColor=white) | UCSD | SPAdes · de Bruijn graphs | [→](./pavel-pevzner/SKILL.md) |
+| [Alkes Price](./alkes-price/) | ![](https://img.shields.io/badge/Statistical_Genetics-1A5276?style=flat-square&logoColor=white) | Harvard SPH | EIGENSTRAT · LD Score regression | [→](./alkes-price/SKILL.md) |
+| [Jonathan Pritchard](./jonathan-pritchard/) | ![](https://img.shields.io/badge/Human_Genetics-6C3483?style=flat-square&logoColor=white) | Stanford / HHMI | STRUCTURE · polygenic adaptation | [→](./jonathan-pritchard/SKILL.md) |
+| [Ben Raphael](./ben-raphael/) | ![](https://img.shields.io/badge/Cancer_Genomics-B22222?style=flat-square&logoColor=white) | Princeton | HATCHet · THetA · TCGA · ISCB Innovator 2021 | [→](./ben-raphael/SKILL.md) |
+| [Gunnar Rätsch](./gunnar-ratsch/) | ![](https://img.shields.io/badge/ML_for_Medicine-483D8B?style=flat-square&logoColor=white) | ETH Zurich | Tumor Profiler · deep learning pathology | [→](./gunnar-ratsch/SKILL.md) |
+| [Aviv Regev](./aviv-regev/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-E74C3C?style=flat-square&logoColor=white) | Genentech / MIT | Human Cell Atlas · scRNA-seq | [→](./aviv-regev/SKILL.md) |
+| [Bing Ren](./bing-ren/) | ![](https://img.shields.io/badge/Epigenomics-2F4F4F?style=flat-square&logoColor=white) | NYGC / Columbia | ChIP-seq · ATAC-seq · Hi-C · ABC model | [→](./bing-ren/SKILL.md) |
+| [Andrej Sali](./andrej-sali/) | ![](https://img.shields.io/badge/Structural_Biology-4682B4?style=flat-square&logoColor=white) | UCSF | MODELLER · IMP · Nuclear Pore Complex | [→](./andrej-sali/SKILL.md) |
+| [Steven Salzberg](./steven-salzberg/) | ![](https://img.shields.io/badge/Genome_Annotation-D35400?style=flat-square&logoColor=white) | Johns Hopkins | HISAT2 · StringTie · CHESS | [→](./steven-salzberg/SKILL.md) |
+| [Chris Sander](./chris-sander/) | ![](https://img.shields.io/badge/Cancer_Systems_Biology-E74C3C?style=flat-square&logoColor=white) | Dana-Farber / Harvard | ISCB 2010 · cBioPortal · DSSP | [→](./chris-sander/SKILL.md) |
+| [Rahul Satija](./rahul-satija/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-1E90FF?style=flat-square&logoColor=white) | NYU / NYGC | Seurat · WNN · SCTransform · Azimuth | [→](./rahul-satija/SKILL.md) |
+| [Michael Schatz](./michael-schatz/) | ![](https://img.shields.io/badge/Genome_Assembly-1F618D?style=flat-square&logoColor=white) | Johns Hopkins | MUMmer · long-read assembly | [→](./michael-schatz/SKILL.md) |
+| [Bernhard Schölkopf](./bernhard-scholkopf/) | ![](https://img.shields.io/badge/Causal_ML-34495E?style=flat-square&logoColor=white) | Max Planck / ELLIS | SVMs · kernel methods · causality | [→](./bernhard-scholkopf/SKILL.md) |
+| [Eran Segal](./eran-segal/) | ![](https://img.shields.io/badge/Personalized_Medicine-F1C40F?style=flat-square&logoColor=white) | Weizmann | Personalized nutrition · microbiome | [→](./eran-segal/SKILL.md) |
+| [Brian Shoichet](./brian-shoichet/) | ![](https://img.shields.io/badge/Drug_Discovery-8B4513?style=flat-square&logoColor=white) | UCSF | Ultra-large docking · colloidal aggregation | [→](./brian-shoichet/SKILL.md) |
+| [Jared Simpson](./jared-simpson/) | ![](https://img.shields.io/badge/Nanopore_Genomics-117A65?style=flat-square&logoColor=white) | OICR / Toronto | nanopolish · ABySS · f5c | [→](./jared-simpson/SKILL.md) |
+| [Yun Song](./yun-song/) | ![](https://img.shields.io/badge/Probabilistic_Genomics-8B5A2B?style=flat-square&logoColor=white) | UC Berkeley | Coalescent theory · probabilistic models | [→](./yun-song/SKILL.md) |
+| [Martin Steinegger](./martin-steinegger/) | ![](https://img.shields.io/badge/Sequence_Analysis-FF8C00?style=flat-square&logoColor=white) | Seoul National U | MMseqs2 · ColabFold · Foldseek | [→](./martin-steinegger/SKILL.md) |
+| [Sarah Teichmann](./sarah-teichmann/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-8B008B?style=flat-square&logoColor=white) | Cambridge / Sanger / GSK | Human Cell Atlas · cell2location | [→](./sarah-teichmann/SKILL.md) |
+| [Fabian Theis](./fabian-theis/) | ![](https://img.shields.io/badge/Computational_Biology-0B5345?style=flat-square&logoColor=white) | Helmholtz / TU Munich | scVI · scANVI · CellRank · SCANPY | [→](./fabian-theis/SKILL.md) |
+| [Cole Trapnell](./cole-trapnell/) | ![](https://img.shields.io/badge/Single-Cell_Genomics-006400?style=flat-square&logoColor=white) | U Washington | Monocle · sci-RNA-seq · TopHat | [→](./cole-trapnell/SKILL.md) |
+| [Olga Troyanskaya](./olga-troyanskaya/) | ![](https://img.shields.io/badge/Genomic_Integration-9400D3?style=flat-square&logoColor=white) | Princeton / Flatiron | DeepSEA · Sei · Bayesian integration | [→](./olga-troyanskaya/SKILL.md) |
 | [James Zou](./james-zou/) | ![](https://img.shields.io/badge/AI_for_Biomedicine-7B68EE?style=flat-square&logoColor=white) | Stanford | ISCB 2025 · SHAP · EchoNet | [→](./james-zou/SKILL.md) |
-| [Amos Bairoch](./amos-bairoch/) | ![](https://img.shields.io/badge/Biocuration-27AE60?style=flat-square&logoColor=white) | SIB Geneva | ISCB 2025 · Swiss-Prot · UniProt | [→](./amos-bairoch/SKILL.md) |
 
 ---
 
@@ -585,17 +598,17 @@ Each scientist's folder is a self-contained reasoning package:
 
 ```
 <scientist-name>/
-├── README.md             # Dossier: avatar · quick-stats · landmark papers · file index
+├── README.md             # Dossier: biography · landmark contributions
 ├── SKILL.md              # Main skill: identity · principles · frameworks · mental models
-├── avatar.png            # Stylized portrait
+├── avatar.png            # AI-generated portrait with domain-specific scientific diagrams
 └── references/
-    ├── 01-principles.md  # Core principles ranked by cross-source frequency
-    ├── 02-frameworks.md  # Conceptual frameworks with associated methods
-    ├── 03-mental-models.md  # Key mental models and metaphors
-    ├── 04-heuristics.md  # Practical rules of thumb
-    ├── 05-anti-patterns.md  # Failure modes to avoid
-    ├── 06-quotes.md      # Verified quotes with sources
-    └── 07-sources.md     # Primary sources used in distillation
+    ├── 01_<topic>.md     # Key contribution or tool #1
+    ├── 02_<topic>.md     # Key contribution or tool #2
+    ├── 03_<topic>.md     # Key contribution or tool #3
+    ├── 04_<topic>.md     # Key contribution or tool #4
+    ├── 05_<topic>.md     # Key contribution or tool #5
+    ├── 06_<topic>.md     # Key contribution or tool #6
+    └── 07_<topic>.md     # Awards & recognition
 ```
 
 ---
@@ -628,6 +641,8 @@ Load the relevant scientist's skill when working on a problem in their domain:
 
 ---
 
+---
+
 ## ⚗️ Distillation Methodology
 
 Each skill package was built using a research pipeline:
@@ -636,7 +651,7 @@ Each skill package was built using a research pipeline:
 2. **Profile research** — Primary sources from lab websites, CVs, ISCB/NAS profiles, Google Scholar
 3. **Distillation** — Structured extraction of principles, frameworks, mental models, heuristics, anti-patterns, and quotes
 4. **Authoring** — SKILL.md + 7 reference files per scientist
-5. **Avatar generation** — Stylized portrait with domain-specific color scheme
+5. **Avatar generation** — AI-generated portrait with domain-specific scientific diagrams (genome browsers, protein structures, SHAP plots, etc.)
 
 ---
 
@@ -647,5 +662,5 @@ MIT — free to use, adapt, and build upon.
 ---
 
 <div align="center">
-<sub>Built with <a href="https://phylo.ai">Biomni</a> · 52 scientists · 364 reference files · 52 portraits</sub>
+<sub>Built with <a href="https://phylo.ai">Biomni</a> · 57 scientists · 399 reference files · 57 portraits</sub>
 </div>
