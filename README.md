@@ -1,5 +1,7 @@
 <div align="center">
 
+![Computational Biology Experts](./banner.png)
+
 # 🧬 Computational Biology Experts
 
 ### A curated atlas of expert reasoning frameworks for 57 landmark computational biologists
