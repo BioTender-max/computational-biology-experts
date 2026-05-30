@@ -662,7 +662,3 @@ Each skill package was built using a research pipeline:
 MIT — free to use, adapt, and build upon.
 
 ---
-
-<div align="center">
-<sub>Built with <a href="https://phylo.ai">Biomni</a> · 57 scientists · 399 reference files · 57 portraits</sub>
-</div>
