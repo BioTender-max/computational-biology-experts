@@ -505,6 +505,9 @@
         <sub><i>Swiss-Prot · UniProt · ExPASy</i></sub>
       </a>
     </td>
+    <td width="200"></td>
+    <td width="200"></td>
+    <td width="200"></td>
   </tr>
 </table>
 
@@ -604,14 +607,14 @@ Load the relevant scientist's skill when working on a problem in their domain:
 | Problem Type | Recommended Scientists |
 |---|---|
 | Protein structure / design | [David Baker](./david-baker/) · [Demis Hassabis](./demis-hassabis/) · [Andrej Sali](./andrej-sali/) |
-| Genome assembly / algorithms | [Eugene Myers](./eugene-myers/) · [Pavel Pevzner](./pavel-pevzner/) · [Michael Schatz](./michael-schatz/) |
+| Genome assembly / algorithms | [Eugene Myers](./eugene-myers/) · [Pavel Pevzner](./pavel-pevzner/) · [Michael Schatz](./michael-schatz/) · [David Haussler](./david-haussler/) |
 | Sequence alignment & tools | [Heng Li](./heng-li/) · [Sean Eddy](./sean-eddy/) · [Martin Steinegger](./martin-steinegger/) |
 | Single-cell trajectory analysis | [Dana Pe'er](./dana-peer/) · [Cole Trapnell](./cole-trapnell/) · [Rahul Satija](./rahul-satija/) |
 | Single-cell atlases | [Aviv Regev](./aviv-regev/) · [Sarah Teichmann](./sarah-teichmann/) · [Fabian Theis](./fabian-theis/) |
 | RNA-seq / statistical genomics | [Lior Pachter](./lior-pachter/) · [Yun Song](./yun-song/) |
 | Epigenomics / regulatory genomics | [Bing Ren](./bing-ren/) · [Stein Aerts](./stein-aerts/) · [Anshul Kundaje](./anshul-kundaje/) · [Wouter Meuleman](./wouter-meuleman/) |
 | Deep learning for genomics | [Manolis Kellis](./manolis-kellis/) · [Barbara Engelhardt](./barbara-engelhardt/) · [Olga Troyanskaya](./olga-troyanskaya/) |
-| Cancer genomics | [Gad Getz](./gad-getz/) · [Ben Raphael](./ben-raphael/) · [Li Ding](./li-ding/) |
+| Cancer genomics | [Gad Getz](./gad-getz/) · [Ben Raphael](./ben-raphael/) · [Li Ding](./li-ding/) · [Núria López-Bigas](./nuria-lopez-bigas/) · [Chris Sander](./chris-sander/) |
 | Drug discovery | [Brian Shoichet](./brian-shoichet/) · [Ron Dror](./ron-dror/) · [Daphne Koller](./daphne-koller/) |
 | Microbiome / metagenomics | [Rob Knight](./rob-knight/) · [Curtis Huttenhower](./curtis-huttenhower/) · [Elhanan Borenstein](./elhanan-borenstein/) · [Peer Bork †](./peer-bork/) |
 | Population genetics | [Richard Durbin](./richard-durbin/) · [Jonathan Pritchard](./jonathan-pritchard/) · [John Novembre](./john-novembre/) · [Alkes Price](./alkes-price/) |
@@ -619,6 +622,9 @@ Load the relevant scientist's skill when working on a problem in their domain:
 | Probabilistic ML / Bayesian methods | [Nir Friedman](./nir-friedman/) · [Bernhard Schölkopf](./bernhard-scholkopf/) · [Yun Song](./yun-song/) |
 | Personalized medicine / microbiome | [Eran Segal](./eran-segal/) · [Elhanan Borenstein](./elhanan-borenstein/) |
 | Disease systems / EHR analysis | [Søren Brunak](./soren-brunak/) · [Gunnar Rätsch](./gunnar-ratsch/) |
+| AI for biomedicine | [James Zou](./james-zou/) · [Daphne Koller](./daphne-koller/) · [Gunnar Rätsch](./gunnar-ratsch/) |
+| Protein databases / biocuration | [Amos Bairoch](./amos-bairoch/) |
+| Cancer systems biology / drug combinations | [Chris Sander](./chris-sander/) · [Daphne Koller](./daphne-koller/) · [Brian Shoichet](./brian-shoichet/) |
 
 ---
 
