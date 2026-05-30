@@ -604,13 +604,13 @@ Each scientist's folder is a self-contained reasoning package:
 ├── SKILL.md              # Main skill: identity · principles · frameworks · mental models
 ├── avatar.png            # AI-generated portrait with domain-specific scientific diagrams
 └── references/
-    ├── 01_<topic>.md     # Key contribution or tool #1
-    ├── 02_<topic>.md     # Key contribution or tool #2
-    ├── 03_<topic>.md     # Key contribution or tool #3
-    ├── 04_<topic>.md     # Key contribution or tool #4
-    ├── 05_<topic>.md     # Key contribution or tool #5
-    ├── 06_<topic>.md     # Key contribution or tool #6
-    └── 07_<topic>.md     # Awards & recognition
+    ├── principles.md     # Core principles ranked by cross-source frequency
+    ├── frameworks.md     # Conceptual frameworks with associated methods
+    ├── mental-models.md  # Key mental models and metaphors
+    ├── heuristics.md     # Practical rules of thumb
+    ├── anti-patterns.md  # Failure modes to avoid
+    ├── quotes.md         # Verified quotes with sources
+    └── sources.md        # Primary sources used in distillation
 ```
 
 ---
